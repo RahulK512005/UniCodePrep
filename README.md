@@ -86,6 +86,10 @@ npm run dev
 
 Your app will start at: **[http://localhost:3000](http://localhost:3000)**
 
+``` bash
+npm install @supabase/supabase-js@2
+```
+
 ### **4️⃣ Build for Production**
 
 ```bash
@@ -116,3 +120,4 @@ We ❤️ contributions! If you'd like to improve the platform:
 This project is **open-source** and available under the [MIT License](LICENSE).
 
 ---
+
