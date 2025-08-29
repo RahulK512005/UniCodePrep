@@ -74,7 +74,14 @@ UniCodePrep/
 ---
 
 ## **⚡ Getting Started**
-
+###**0 Set your Google API Key
+```
+UniCodePrep/
+|---src/
+      |---Components/
+           |---Discussion.tsx
+                |--- 60th Line give your GOOGLE API KEY
+```
 ### **1️⃣ Clone the Repository**
 
 ```bash
@@ -170,4 +177,5 @@ We ❤️ contributions!
 ## **📜 License**
 
 This project is **open-source** and available under the [MIT License](LICENSE).
+
 
