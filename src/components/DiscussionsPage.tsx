@@ -57,7 +57,7 @@ interface Discussion {
   messages: Message[]; // Store conversation history
 }
 
-const GEMINI_API_KEY = "AIzaSyCw7ds6fpOFSxhIYhfZKW-UM-siuXNiQ_M";
+const GEMINI_API_KEY = "YOUR_GOOGLE_API_KEY";
 
 export default function DiscussionsPage({ currentUser }: DiscussionsPageProps) {
   const [currentInput, setCurrentInput] = useState("");
